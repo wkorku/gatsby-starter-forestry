@@ -2,29 +2,6 @@
 title: Home Page
 template: blocks
 blocks:
-- template: block__feature
-  component: feature
-  image: "/images/forestry-markdown-editor.jpg"
-  background: primary
-  orientation: reverse
-  title: A CMS for your Gatsby Project
-  content: Forestry gives content writers a <strong>user-friendly editing experience</strong>
-- template: block__feature
-  component: feature
-  background: light
-  orientation: normal
-  title: Build a Site in Minutes
-  content: Our Gatsby starter is pre-configured with support for <strong>Markdown</strong>,
-    and works great with Forestry CMS.
-  image: "/images/quickstart.png"
-- template: block__feature
-  component: feature
-  background: dark
-  orientation: reverse
-  title: Instant Previews
-  content: Forestry's <strong>instant previews</strong> dramatically reduces preview
-    build times, giving you a tighter feedback loop.
-  image: "/images/forestry-instant-preview.png"
 - template: block__3col
   component: 3col
   title: Why Forestry?
